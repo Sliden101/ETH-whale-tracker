@@ -4,8 +4,8 @@ Tracks whale's transaction using etherscan API.
 
 ### 1. Setup
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/Sliden101/ETH-whale-tracker
+cd ETH-whale-tracker
 cp example.config.json config.json
 ```
 #### 1.1 Config
